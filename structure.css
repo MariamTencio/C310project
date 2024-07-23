@@ -1,0 +1,9 @@
+inventory_system/
+├── src/
+│   ├── main.cpp
+│   ├── inventory.h
+│   ├── inventory.cpp
+│   ├── item.h
+│   ├── item.cpp
+├── README.md
+└── Makefile
